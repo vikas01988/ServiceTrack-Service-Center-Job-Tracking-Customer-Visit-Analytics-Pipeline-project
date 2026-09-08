@@ -1,0 +1,4 @@
+# Core dependencies for the ServiceTrack pipeline notebooks
+# These packages are required to run PySpark transformations and Delta Lake operations.
+pyspark>=3.5.0
+delta-spark>=3.0.0
